@@ -1,4 +1,4 @@
-local Mod = RegisterMod("Instant Restart - Reimagined", 1)
+local Mod = RegisterMod("BTRestart", 1)
 
 Mod.Version = "1.0"
 
